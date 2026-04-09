@@ -70,7 +70,7 @@ function App() {
       <main className="app-panel">
         <section className="hero-section">
           <p className="eyebrow">Focused Task Board</p>
-          <h1>用三個頁面掌握所有待辦事項</h1>
+          <h1>待辦事項 APP</h1>
           <p className="hero-copy">
             預設深色模式，集中處理新增、完成與刪除。三個頁面共用同一份資料，只切換顯示條件。
           </p>
